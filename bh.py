@@ -9,3 +9,5 @@ print("Hi my name is behnam, or we can say bh..lol")
 >>>>>>> cfb90fd66c3915a0e14633eb86fca56241451d21
 h=np.zeros((3,4))
 print(h)
+beh=np.zeros((60,10))
+print(beh)
